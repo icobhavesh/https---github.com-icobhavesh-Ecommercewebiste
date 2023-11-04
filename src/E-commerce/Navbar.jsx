@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import {BiCart } from 'react-icons/bi';
 import { useSelector } from 'react-redux/es/exports';
-import Hero from "../Demoproject/Hero"
+// import Hero from "../Demoproject/Hero"
 const Navbar = () => {
     const cartItems = useSelector((state) => state.Cart.items);
     return (
