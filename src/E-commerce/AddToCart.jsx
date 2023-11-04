@@ -26,7 +26,7 @@ const AddToCart = () => {
   return (
 
     <div>
-      <section className="text-black body-font overflow-hidden shadow-2xl shadow-white ">
+      <section className="text-black body-font overflow-hidden shadow-2xl ~shadow-white ">
         <div className="container px-5 py-24 mx-auto ">
           {cartItems.map((data, idx) => (
             <div key={idx} className="lg:w-4/5 mx-auto flex flex-wrap gap-10 justify-center items-center shadow-xl shadow-gray-200 ">

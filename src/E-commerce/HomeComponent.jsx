@@ -3,7 +3,7 @@ import React from 'react'
 import Product from './Product'
 import Contact from './Contact'
 import Footer from './Footer'
-
+import Hero from "./Hero"
 
 const HomeComponent = () => {
     return (
