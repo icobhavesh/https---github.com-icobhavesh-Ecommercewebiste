@@ -20,10 +20,11 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Home />
       
     </Provider>
-    {/* <NavBar/> */}
-{/* <Motion/> */}
-  {/* <Home_1/> */}
-{/* <Hero/> */}
-    {/* <Navbars/> */}
   </React.StrictMode>,
 )
+
+// {/* <NavBar/> */}
+// {/* <Motion/> */}
+// {/* <Home_1/> */}
+// {/* <Hero/> */}
+// {/* <Navbars/> */}
