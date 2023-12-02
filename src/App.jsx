@@ -27,7 +27,7 @@ export default function App() {
               </img>
               <div className=" text-[20px] font-semibold capitalize p-4 ">
                 <p className="text-center">{item.category}</p>
-                <p className="text-center">{item.priceo}</p>
+                <p className="text-center">{item.price}</p>
                 <p className="text-center">{item.description.slice(0, 20)}</p>
 
               </div>

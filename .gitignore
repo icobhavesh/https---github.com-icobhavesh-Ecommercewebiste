@@ -22,15 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*Demoproject
 
 /node_modules
 /.pnp
 .pnp.js
-src/Dummy.jsx
-src/Demoproject/Motion.jsx
-src/Demoproject/Header.jsx
-src/Demoproject/Home_1.jsx
-src/Demoproject/NavBar.jsx
-src/Demoproject/Hero.jsx
-src/Demoproject/Product.jsx
-src/Demoproject/Products_1.jsx
+
